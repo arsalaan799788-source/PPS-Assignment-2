@@ -1,6 +1,6 @@
 Course: Programming For Problem Solving (U26CS101) Institute: Lords Institute of Engineering and Technology Branch: CSM-A | I-BE, I-Semester (LR26) Unit: 2
 
-name: MUHAMMED ARSALAAN 
+name: MUHAMMAD ARSALAAN HUSSAIN 
 Roll No: 1609267480
 
 About
@@ -14,7 +14,8 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 | 3 | For Loop in C | `3_for_loop.c` |
 | 4 | Bitwise Operators | `4_bitwise_operators.c` |
 | 5 | Conditional Statements in C | `5_conditional_statements.c` |
-[06/10, 1:25 pm] +91 90142 11217: ## Concepts Covered
+
+## Concepts Covered
 
 - Input and output with `scanf` / `printf`
 - User-defined functions
