@@ -1,7 +1,7 @@
 Course: Programming For Problem Solving (U26CS101) Institute: Lords Institute of Engineering and Technology Branch: CSM-A | I-BE, I-Semester (LR26) Unit: 2
 
 name: MUHAMMAD ARSALAAN HUSSAIN 
-Roll No: 1609267480
+Roll No: 160926748018
 
 About
 C solutions for Assignment-2, solved and accepted on HackerRank.
