@@ -5,7 +5,7 @@ name:  Roll No: 1609267480
 About
 C solutions for Assignment-2, solved and accepted on HackerRank.
 
-[06/10, 1:25 pm] +91 90142 11217:
+
 | S.No | Problem | File |
 |------|---------|------|
 | 1 | Sum and Difference of Two Numbers | `1_sum_difference.c` |
